@@ -10,7 +10,7 @@
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-no-red.svg" />
   </a>
 </p>
-<a href="https://chat.whatsapp.com/EV2o7Y4C2XNDT5AAQPZjqt"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://chat.whatsapp.com/HpnyeyUpOCeKqc3X2qZCEh"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
  
 </div>
 
@@ -26,7 +26,7 @@
 > cd ZETSBot
 > npm i
 ```
-### For termux users before running the above command write this command
+### Untuk pengguna termux ikuti perintah di bawah
 ```bash
 > apt-get update
 > apt-get upgrade
@@ -34,7 +34,7 @@
 ```
 
 #### Ubah di `config.json` 
-##### Register di <b>[zeks.xyz](https://zeks.xyz)</b> to get apiKey then enter to zeksKey in `config.json`
+##### Register di <b>[zeks.xyz](https://zeks.xyz)</b> untuk mendapatkan ApiKey lalu ubah di `config.json`
 ### Start ✅
 
 ```bash
@@ -44,7 +44,7 @@
  `port`
 --port [port number]
 
-after start it you need to scan the qr
+Setelah itu scan Qr code
 #### Session name and options is optional
 ### Contact me
 
