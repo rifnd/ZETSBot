@@ -1,8 +1,8 @@
 {
    "prefix": "multi",
    "defaultSessionName": "bot",
-   "zeksKey": "nandowangy",
-   "dapkey": "nandowangy",
+   "zeksKey": "apikey",
+   "dapkey": "apikey",
    "autoRead": true,
    "self": false,
    "maxLimit": 15,
