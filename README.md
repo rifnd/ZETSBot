@@ -14,16 +14,16 @@
  
 </div>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/justpiple/whatsapp-bot/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nando35/ZETSBot/)
 
-[![Run on Repl.it](https://repl.it/badge/github/justpiple/whatsapp-bot)](https://repl.it/github/justpiple/whatsapp-bot)
+[![Run on Repl.it](https://repl.it/badge/github/Nando35/ZETSBOt)](https://repl.it/github/Nando35/ZETSBot)
 
 
 ### Install ⬇️
 
 ```bash
-> git clone https://github.com/justpiple/whatsapp-bot/
-> cd whatsapp-bot
+> git clone https://github.com/Nando35/ZETSBot/
+> cd ZETSBot
 > npm i
 ```
 ### For termux users before running the above command write this command
@@ -33,8 +33,8 @@
 > apt-get install -y nodejs git
 ```
 
-#### Change `config.json` 
-##### Register in <b>[zeks.xyz](https://zeks.xyz)</b> to get apiKey then enter to zeksKey in `config.json`
+#### Ubah di `config.json` 
+##### Register di <b>[zeks.xyz](https://zeks.xyz)</b> to get apiKey then enter to zeksKey in `config.json`
 ### Start ✅
 
 ```bash
@@ -48,9 +48,9 @@ after start it you need to scan the qr
 #### Session name and options is optional
 ### Contact me
 
-- [TELEGRAM](https://t.me/justpiple)
-- [WHATSAPP](http://wa.me/62813309603730)
-- [GROUP CHAT WHATSAPP](https://chat.whatsapp.com/EV2o7Y4C2XNDT5AAQPZjqt)
+- [INSTAGRAM](https://instagram.com/nando.xyz)
+- [WHATSAPP](http://wa.me/6281252848955)
+- [GROUP CHAT WHATSAPP](https://chat.whatsapp.com/HpnyeyUpOCeKqc3X2qZCEh)
 
 
 ## 🙏 Special Thanks to
